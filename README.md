@@ -30,5 +30,5 @@ In today's world, obesity is becoming a major problem. Therefore, we need a syst
 
 
                  
-![1](https://user-images.githubusercontent.com/106165005/202860649-9e9a50e3-9c96-44b8-b82d-ac346de5d1e9.jpg)
+ ![1](https://user-images.githubusercontent.com/106165005/202860649-9e9a50e3-9c96-44b8-b82d-ac346de5d1e9.jpg)
 
